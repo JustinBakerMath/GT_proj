@@ -1,0 +1,16 @@
+﻿P1_P2,Burger,Wings ,Veggie,Burger_Soda,Wings_Soda,Veggie_Soda,Burger_Hefeweizen,Wings_Hefeweizen,Veggie_Hefeweizen,Burger_Pilsner,Wings_Pilsner,Veggie_Pilsner,Burger_Lager,Wings_Lager,Veggie_Lager
+Burger,0,1,-2,-1,0,-3,-2,-1,-4,-3,-2,-5,-4,-3,-6
+Wings,-1,0,-1,-2,-1,-2,-3,-2,-3,-4,-3,-4,-5,-4,-5
+Veggie,2,1,0,1,0,-1,0,-1,-2,-1,-2,-3,-2,-3,-4
+Burger_Soda,1,2,-1,0,-1,0,-1,-2,-1,-2,-3,-2,-3,-4,-3
+Wings_Soda,0,1,0,1,0,1,2,-1,0,1,-2,-1,0,-3,-2
+Veggie_Soda,3,2,1,0,-1,0,-1,-2,1,0,-3,0,-1,-4,-1
+Burger_Hefeweizen,2,3,0,1,-2,1,0,-1,2,3,-2,1,2,-3,0
+Wings_Hefeweizen,1,2,1,2,1,2,1,0,3,1,-3,2,1,-4,1
+Veggie_Hefeweizen,4,3,2,1,0,-1,-2,-3,0,4,-2,3,4,-3,2
+Burger_Pilsner,3,4,1,2,-1,0,-3,-1,-4,0,-3,4,3,-4,3
+Wings_Pilsner,2,3,2,3,2,3,2,3,2,3,0,5,6,-3,4
+Veggie_Pilsner,5,4,3,2,1,0,-1,-2,-3,-4,-5,0,5,-4,5
+Burger_Lager,4,5,2,3,0,1,-2,-1,-4,-3,-6,-5,0,-3,6
+Wings_Lager,3,4,3,4,3,4,3,4,3,4,3,4,3,0,7
+Veggie_Lager,6,5,4,3,2,1,0,-1,-2,-3,-4,-5,-6,-7,0

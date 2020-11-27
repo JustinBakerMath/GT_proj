@@ -1,0 +1,7 @@
+﻿Restaurant_Exp,Advertising,Credit Charges,Insurance,Legal,Accounting,Rent_Maitenance,Capital_Supplies,Salaries,Utilities
+Servers,0,0,5,5,10,0,0,80,0
+Menu,5,60,5,5,5,0,15,0,5
+Atmosphere,5,0,5,0,10,30,40,0,10
+Bar,0,15,10,15,5,5,5,40,5
+Catering_Weddings,25,30,5,5,5,5,10,10,5
+Building,5,0,10,5,5,35,25,0,15
